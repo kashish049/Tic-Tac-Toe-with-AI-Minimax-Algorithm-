@@ -78,24 +78,6 @@ Below is a preview of the actual gameplay in your terminal:
 
 ---
 
-## 📌 Project Name Suggestion
 
-Use this name for GitHub and your resume:
-
-```
-Tic-Tac-Toe AI (Minimax Algorithm, C++)
-```
-
-Or keep it clean and descriptive:
-
-```
-Terminal Tic-Tac-Toe Game with AI (C++)
-```
-
----
-
-Feel free to fork or contribute. Happy gaming! 🎲
-
-```
 
 
