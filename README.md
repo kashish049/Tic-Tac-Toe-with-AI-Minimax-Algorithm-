@@ -74,7 +74,9 @@ A simple **C++ terminal-based Tic-Tac-Toe game** where you play against an intel
 
 Below is a preview of the actual gameplay in your terminal:
 
-![Gameplay Screenshot](./output.png)
+
+![Screenshot1](Screenshot1.png)
+![Screenshot2](Screenshot2.png)
 
 ---
 
