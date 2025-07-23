@@ -3,7 +3,7 @@
 
 A simple **C++ terminal-based Tic-Tac-Toe game** where you play against an intelligent computer using the **Minimax algorithm**. The computer always makes the optimal move – can you beat it?
 
-![Game Screenshot](./game-output.png)
+![Game Screenshot](./output.png)
 
 ---
 
